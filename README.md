@@ -1,8 +1,8 @@
 
 
-# **SurakshaSetu - Family Safety App**
+# **Family Safety App**
 
-SurakshaSetu is a comprehensive family safety application designed to provide peace of mind through real-time location tracking, emergency alert systems, and secure group management features. This report presents the app's functionalities, technical design, implementation, and future plans, ensuring a clear understanding for developers and end-users alike.
+Family safety application is designed to provide peace of mind through real-time location tracking, emergency alert systems, and secure group management features. This report presents the app's functionalities, technical design, implementation, and future plans, ensuring a clear understanding for developers and end-users alike.
 
 ---
 
@@ -47,7 +47,7 @@ SurakshaSetu is a comprehensive family safety application designed to provide pe
 
 ## **1. Introduction**
 
-SurakshaSetu empowers families with tools to monitor, connect, and respond effectively during emergencies. The app integrates location tracking, secure communication, and user-friendly interfaces, making it an essential tool in today’s fast-paced world.  
+Family Safety App empowers families with tools to monitor, connect, and respond effectively during emergencies. The app integrates location tracking, secure communication, and user-friendly interfaces, making it an essential tool in today’s fast-paced world.  
 
 **Primary Goals:**  
 - Enhance personal and family safety.  
